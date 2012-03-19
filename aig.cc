@@ -2,6 +2,8 @@
 #include <iostream>
 #include "aig.h"
 
+// test
+
 unsigned AigDef::aigerIndex(unsigned lit) {
   if(lit == 0)
     return lit;
